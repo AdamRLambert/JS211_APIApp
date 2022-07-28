@@ -1,0 +1,23 @@
+{
+  "name": "js211_apiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamRLambert/JS211_APIApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamRLambert/JS211_APIApp/issues"
+  },
+  "homepage": "https://github.com/AdamRLambert/JS211_APIApp#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {}
+}
